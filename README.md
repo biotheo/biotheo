@@ -1,6 +1,8 @@
 <img src="mklgustafsson-small-memory.png" width="2000px">
 
-<h1 align="center"> <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f98b.svg"width="30px" alt="butterfly emoji"> Hi, everyone! <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f41b.svg"width="30px" alt="caterpillar emoji"></h1>
+<img align='right' src='photo_2023-06-20_14-41-40.jpg' width='200'>
+
+<h1 align="left"> <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f98b.svg"width="30px" alt="butterfly emoji"> Hi, everyone! <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f41b.svg"width="30px" alt="caterpillar emoji"></h1>
 <p align="center">
     <b>I'm Matteo</b><br>
     <i>
