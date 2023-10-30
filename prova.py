@@ -1,0 +1,1 @@
+print("Hello world! I'm trying GitHub extension for VS Code :)")
