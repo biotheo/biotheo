@@ -2,7 +2,7 @@
 
 <p align="center">
     <i>
-        I'm a Master's degree student at <a href="www.unito.it"> University of Turin</a><br>
+        I obtained a Master's degree at <a href="www.unito.it"> University of Turin</a><br> 
         My studies and interests are focused on insects conservation and urban ecology<br>
     </i><br>
     <a href="https://www.linkedin.com/in/angelimatteo">
